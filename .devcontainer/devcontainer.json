@@ -9,8 +9,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHub.copilot",
-        "erickdevv.gummy-boogie-theme"
+        "GitHub.copilot"
       ]
     },
     "codespaces": {
